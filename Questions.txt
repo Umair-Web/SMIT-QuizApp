@@ -1,0 +1,10 @@
+1.Which of the following is the correct file extension for a Python file?
+a) .pyth b) .py c) .pt d) .pyt
+2.Which keyword is used to define a function in Python?
+a) def b) func c) function d) define
+3.Which of the following is a valid way to declare a variable in Python? 
+a) var x = 10 b) x := 10 c) x = 10 d) int x = 10
+4.Which of the following is used to get the length of a list in Python?
+a) len() b) size() c) length() d) count()
+5.Which of the following is NOT a valid Python data type?
+a) list b) tuple c) set d) array
